@@ -1,3 +1,7 @@
+### Virtual inorganic analysis command-line python script
+### Josef Kehrein
+### Version 1.04 (01.03.21): https://github.com/juppifluppi/virtualanalysis
+
 import random
 
 print('''
