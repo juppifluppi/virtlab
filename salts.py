@@ -1,11 +1,11 @@
 import random
 
 print('''
-Willkommen zum Übungsprogramm für die theoretischen Analysen im 1. Sem. Pharmazie der JMU Würzburg!
+Willkommen zum Übungsprogramm für die theoretischen Analysen im 1. Sem. Pharmazie!
 ---------------------------------------------------------------------------------------------------
 Sie können im Folgenden für sechs verschiedene Analysen mit randomisierten Salzmischungen Nachweise
-aus dem Praktikumsskript durchführen, indem Sie die jeweilige Nummer aus der Liste eingeben, die
-Ihnen angezeigt wird. Daraufhin wird Ihnen eine Beobachtung geschildert und nach Dücken auf "Enter"
+durchführen, indem Sie die jeweilige Nummer aus der Liste eingeben, die Ihnen angezeigt wird.
+Daraufhin wird Ihnen eine Beobachtung geschildert und nach Dücken auf "Enter"
 können Sie den nächsten Nachweis durchführen. Mit "Ansage" können Sie eine Abgabe durchführen, bei
 der Sie die gefundenen Ionen, mit Leertaste getrennt und so wie in der Liste angegeben, aufschreiben.
 Mit "Führe Entstörung durch..." können Sie einzelne Ionen aus der Analyse entfernen, sofern Sie
