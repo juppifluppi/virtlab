@@ -13,7 +13,7 @@ enthalten sind. Diese Entstörung kann mit "Beginne mit frischer Substanz" wiede
 Ist die Analyse beendet, so können Sie das Programm mit einem Klick auf "Run" in der oberen Leiste
 neustarten. Viel Spaß!
 ---------------------------------------------------------------------------------------------------
-Version 1.04 (Letztes Update: 01.03.2021)
+Version 1.04 (01.03.21)
 ---------------------------------------------------------------------------------------------------
 ''')
 
