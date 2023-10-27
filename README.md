@@ -1,5 +1,5 @@
 # Virtual inorganic analysis
-A small virtual inorganic analysis command-line python script, written during covid lockdown for German 1st semester pharmacy students.
+A virtual inorganic analysis practicing tool for German 1st semester pharmacy students.
 
 Trinket web app is accessible at:
 
